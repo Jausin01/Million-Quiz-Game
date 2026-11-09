@@ -1,32 +1,35 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Build output
+build/
+out/
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
 *.obj
+*.o
 
-# Precompiled Headers
-*.gch
-*.pch
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# SFML binaries (see README)
+External/
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
+# Player profiles created while playing
+data/PlayerDB.txt
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Sound files (not included: see assets/Soundtrack/README.md)
+assets/Soundtrack/*.wav
+assets/Soundtrack/*.ogg
+assets/Soundtrack/*.mp3

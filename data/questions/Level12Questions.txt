@@ -1,0 +1,179 @@
+[Question1]
+Title=In which year did the Battle of Hastings take place?
+AnswerA=1066
+AnswerB=1054
+AnswerC=1085
+AnswerD=1072
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=Who led the Cuban Revolution that overthrew Batista in 1959?
+AnswerA=Fidel Castro
+AnswerB=Fulgencio Batista
+AnswerC=Che Guevara
+AnswerD=Camilo Cienfuegos
+RightAnswer=A
+Category=History
+
+[Question3]
+Title=Which empire built Machu Picchu?
+AnswerA=Aztec Empire
+AnswerB=Inca Empire
+AnswerC=Maya Empire
+AnswerD=Toltec Empire
+RightAnswer=B
+Category=History
+
+[Question4]
+Title=Which leader introduced the Soviet Five-Year Plans in the 1920s–1930s?
+AnswerA=Vladimir Lenin
+AnswerB=Joseph Stalin
+AnswerC=Leon Trotsky
+AnswerD=Nikita Khrushchev
+RightAnswer=B
+Category=History
+
+[Question5]
+Title=Which South American capital city is located at one of the highest elevations in the world?
+AnswerA=Lima
+AnswerB=La Paz
+AnswerC=Buenos Aires
+AnswerD=Santiago
+RightAnswer=B
+Category=Geography
+
+[Question6]
+Title=What natural strait separates the European and Asian parts of Turkey?
+AnswerA=Dardanelles
+AnswerB=Bosphorus
+AnswerC=Gibraltar
+AnswerD=English Channel
+RightAnswer=B
+Category=Geography
+
+[Question7]
+Title=Which large island lies off the southeast coast of Africa?
+AnswerA=Madagascar
+AnswerB=Sicily
+AnswerC=Corsica
+AnswerD=Sri Lanka
+RightAnswer=A
+Category=Geography
+
+[Question8]
+Title=Which river flows through the center of Paris?
+AnswerA=Thames
+AnswerB=Seine
+AnswerC=Danube
+AnswerD=Rhine
+RightAnswer=B
+Category=Geography
+
+[Question9]
+Title=Which of the following is a root of the equation xupt2 − 5x + 6 = 0?
+AnswerA=2
+AnswerB=4
+AnswerC=−3
+AnswerD=6
+RightAnswer=A
+Category=Math
+
+[Question10]
+Title=What is the derivative of cos(x) with respect to x?
+AnswerA=cos(x)
+AnswerB=−sin(x)
+AnswerC=sin(x)
+AnswerD=−cos(x)
+RightAnswer=B
+Category=Math
+
+[Question11]
+Title=What is the value of 0! (zero factorial)?
+AnswerA=0
+AnswerB=1
+AnswerC=Undefined
+AnswerD=Infinity
+RightAnswer=B
+Category=Math
+
+[Question12]
+Title=How many minutes are played in a standard professional soccer match (without extra time)?
+AnswerA=90
+AnswerB=80
+AnswerC=60
+AnswerD=100
+RightAnswer=A
+Category=Sports
+
+[Question13]
+Title=Which nation has won the most Olympic gold medals overall (Summer + Winter) historically?
+AnswerA=United States
+AnswerB=Russia
+AnswerC=China
+AnswerD=Germany
+RightAnswer=A
+Category=Sports
+
+[Question14]
+Title=Which artist is most associated with the Blue Period?
+AnswerA=Vincent van Gogh
+AnswerB=Pablo Picasso
+AnswerC=Claude Monet
+AnswerD=Salvador Dalí
+RightAnswer=B
+Category=Art
+
+[Question15]
+Title=Which art movement is characterized by visible brush strokes, light effects and ordinary subject matter and began in the 19th century?
+AnswerA=Impressionism
+AnswerB=Baroque
+AnswerC=Neoclassicism
+AnswerD=Cubism
+RightAnswer=A
+Category=Art
+
+[Question16]
+Title=What is the molecular formula for sucrose (table sugar)?
+AnswerA=C6H12O6
+AnswerB=C12H22O12
+AnswerC=C12H22O11
+AnswerD=C11H22O11
+RightAnswer=C
+Category=Science
+
+[Question17]
+Title=Which vitamin is primarily synthesized in human skin through exposure to sunlight?
+AnswerA=Vitamin A
+AnswerB=Vitamin C
+AnswerC=Vitamin D
+AnswerD=Vitamin K
+RightAnswer=C
+Category=Science
+
+[Question18]
+Title=What is the chemical symbol for potassium?
+AnswerA=K
+AnswerB=P
+AnswerC=Pt
+AnswerD=Po
+RightAnswer=A
+Category=Science
+
+[Question19]
+Title=Which ocean lies to the west of the continent of Africa?
+AnswerA=Atlantic Ocean
+AnswerB=Indian Ocean
+AnswerC=Pacific Ocean
+AnswerD=Southern Ocean
+RightAnswer=A
+Category=Geography
+
+[Question20]
+Title=Approximately what is the acceleration due to gravity at Earth's surface (in m/s²)?
+AnswerA=8.2
+AnswerB=9.8
+AnswerC=10.5
+AnswerD=11.2
+RightAnswer=B
+Category=Science

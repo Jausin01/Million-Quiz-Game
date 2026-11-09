@@ -1,0 +1,179 @@
+[Question1]
+Title=Which treaty ended the Thirty Years’ War in 1648?
+AnswerA=Treaty of Utrecht
+AnswerB=Peace of Westphalia
+AnswerC=Treaty of Paris
+AnswerD=Treaty of Tordesillas
+RightAnswer=B
+Category=History
+
+[Question2]
+Title=Who was the first emperor of unified China?
+AnswerA=Emperor Gaozu
+AnswerB=Emperor Taizong
+AnswerC=Qin Shi Huang
+AnswerD=Emperor Wu
+RightAnswer=C
+Category=History
+
+[Question3]
+Title=Which river is the longest in Europe?
+AnswerA=Danube
+AnswerB=Volga
+AnswerC=Rhine
+AnswerD=Dnieper
+RightAnswer=B
+Category=Geography
+
+[Question4]
+Title=Which country has the highest number of active volcanoes?
+AnswerA=Japan
+AnswerB=Indonesia
+AnswerC=Italy
+AnswerD=Philippines
+RightAnswer=B
+Category=Geography
+
+[Question5]
+Title=What is the derivative of e^x?
+AnswerA=1
+AnswerB=e^x
+AnswerC=x e^(x−1)
+AnswerD=ln(x)
+RightAnswer=B
+Category=Math
+
+[Question6]
+Title=What is the solution to the equation 2x + 5 = 17?
+AnswerA=4
+AnswerB=6
+AnswerC=5
+AnswerD=7
+RightAnswer=B
+Category=Math
+
+[Question7]
+Title=Who won the FIFA World Cup in 1998?
+AnswerA=Brazil
+AnswerB=Germany
+AnswerC=France
+AnswerD=Argentina
+RightAnswer=C
+Category=Sports
+
+[Question8]
+Title=In basketball, how many players are on the court for one team?
+AnswerA=4
+AnswerB=5
+AnswerC=6
+AnswerD=7
+RightAnswer=B
+Category=Sports
+
+[Question9]
+Title=Who painted -> The Persistence of Memory?
+AnswerA=Pablo Picasso
+AnswerB=Salvador Dalí
+AnswerC=Joan Miró
+AnswerD=René Magritte
+RightAnswer=B
+Category=Art
+
+[Question10]
+Title=Which sculptor created -> The Thinker?
+AnswerA=Michelangelo
+AnswerB=Auguste Rodin
+AnswerC=Donatello
+AnswerD=Bernini
+RightAnswer=B
+Category=Art
+
+[Question11]
+Title=Which planet rotates on its side relative to its orbit?
+AnswerA=Mars
+AnswerB=Uranus
+AnswerC=Neptune
+AnswerD=Venus
+RightAnswer=B
+Category=Science
+
+[Question12]
+Title=What is the main gas in Earth’s atmosphere?
+AnswerA=Oxygen
+AnswerB=Carbon dioxide
+AnswerC=Nitrogen
+AnswerD=Hydrogen
+RightAnswer=C
+Category=Science
+
+[Question13]
+Title=Which empire built the Hagia Sophia originally?
+AnswerA=Byzantine Empire
+AnswerB=Ottoman Empire
+AnswerC=Roman Empire
+AnswerD=Seljuk Empire
+RightAnswer=A
+Category=History
+
+[Question14]
+Title=Which desert is the coldest in the world?
+AnswerA=Gobi
+AnswerB=Antarctic Desert
+AnswerC=Arctic Desert
+AnswerD=Taklamakan
+RightAnswer=B
+Category=Geography
+
+[Question15]
+Title=What is the limit of (1 + 1/n)^n as n approaches infinity?
+AnswerA=1
+AnswerB=e
+AnswerC=∞
+AnswerD=0
+RightAnswer=B
+Category=Math
+
+[Question16]
+Title=Who won the first modern Olympic Games in 1896 in Athens?
+AnswerA=France
+AnswerB=Germany
+AnswerC=Greece
+AnswerD=USA
+RightAnswer=D
+Category=Sports
+
+[Question17]
+Title=Which artist painted -> The School of Athens?
+AnswerA=Leonardo da Vinci
+AnswerB=Raphael
+AnswerC=Michelangelo
+AnswerD=Giotto
+RightAnswer=B
+Category=Art
+
+[Question18]
+Title=What is the hardest natural substance on Earth?
+AnswerA=Diamond
+AnswerB=Quartz
+AnswerC=Corundum
+AnswerD=Topaz
+RightAnswer=A
+Category=Science
+
+[Question19]
+Title=Who was known as the -> Sun King?
+AnswerA=Louis XIV
+AnswerB=Henry VIII
+AnswerC=Charles V
+AnswerD=Philip II
+RightAnswer=A
+Category=History
+
+[Question20]
+Title=Which is the largest island in the Mediterranean Sea?
+AnswerA=Sicily
+AnswerB=Cyprus
+AnswerC=Sardinia
+AnswerD=Crete
+RightAnswer=A
+Category=Geography

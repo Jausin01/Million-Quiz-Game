@@ -1,0 +1,179 @@
+[Question1]
+Title=Which Byzantine emperor commissioned the Corpus Juris Civilis (Body of Civil Law)?
+AnswerA=Justinian I
+AnswerB=Heraclius
+AnswerC=Constantine VII
+AnswerD=Theodosius I
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=In which year did the Battle of Thermopylae take place, when King Leonidas led the Spartans?
+AnswerA=490 BC
+AnswerB=480 BC
+AnswerC=468 BC
+AnswerD=499 BC
+RightAnswer=B
+Category=History
+
+[Question3]
+Title=The Korean War armistice was signed in which year?
+AnswerA=1950
+AnswerB=1953
+AnswerC=1956
+AnswerD=1948
+RightAnswer=B
+Category=History
+
+[Question4]
+Title=Who authored the Renaissance work "Utopia" published in 1516?
+AnswerA=Machiavelli
+AnswerB=Erasmus
+AnswerC=Thomas More
+AnswerD=Dante Alighieri
+RightAnswer=C
+Category=History
+
+[Question5]
+Title=Which country contains the world’s largest coral reef system, the Great Barrier Reef?
+AnswerA=Australia
+AnswerB=Indonesia
+AnswerC=Philippines
+AnswerD=Mexico
+RightAnswer=A
+Category=Geography
+
+[Question6]
+Title=Which strait separates Asia from North America at their closest point?
+AnswerA=Dardanelles
+AnswerB=Bering Strait
+AnswerC=Torres Strait
+AnswerD=Strait of Malacca
+RightAnswer=B
+Category=Geography
+
+[Question7]
+Title=Which U.S. state capital is at the highest elevation above sea level?
+AnswerA=Denver
+AnswerB=Santa Fe
+AnswerC=Cheyenne
+AnswerD=Helena
+RightAnswer=B
+Category=Geography
+
+[Question8]
+Title=What is Euler’s totient φ(15)?
+AnswerA=8
+AnswerB=6
+AnswerC=4
+AnswerD=12
+RightAnswer=A
+Category=Math
+
+[Question9]
+Title=What is log₂(256)?
+AnswerA=6
+AnswerB=7
+AnswerC=8
+AnswerD=9
+RightAnswer=C
+Category=Math
+
+[Question10]
+Title=What is the binary representation of decimal number 13?
+AnswerA=1011
+AnswerB=1101
+AnswerC=1110
+AnswerD=1001
+RightAnswer=B
+Category=Math
+
+[Question11]
+Title=How many players are on the field for one side in rugby league?
+AnswerA=11
+AnswerB=13
+AnswerC=15
+AnswerD=14
+RightAnswer=B
+Category=Sports
+
+[Question12]
+Title=Which nation won the Rugby World Cup in 2019?
+AnswerA=England
+AnswerB=New Zealand
+AnswerC=South Africa
+AnswerD=Australia
+RightAnswer=C
+Category=Sports
+
+[Question13]
+Title=Which painter created "The Arnolfini Portrait" (1434)?
+AnswerA=Hans Holbein
+AnswerB=Jan van Eyck
+AnswerC=Albrecht Dürer
+AnswerD=Hieronymus Bosch
+RightAnswer=B
+Category=Art
+
+[Question14]
+Title=Which traditional painting medium uses pigment mixed with egg yolk?
+AnswerA=Tempera
+AnswerB=Oil
+AnswerC=Acrylic
+AnswerD=Gouache
+RightAnswer=A
+Category=Art
+
+[Question15]
+Title=Planck's constant is approximately which value (in J·s)?
+AnswerA=6.626 × 10^-34
+AnswerB=3.00 × 10^8
+AnswerC=1.602 × 10^-19
+AnswerD=9.81 × 10^0
+RightAnswer=A
+Category=Science
+
+[Question16]
+Title=Which vitamin is essential for blood clotting?
+AnswerA=Vitamin A
+AnswerB=Vitamin D
+AnswerC=Vitamin C
+AnswerD=Vitamin K
+RightAnswer=D
+Category=Science
+
+[Question17]
+Title=During alcoholic fermentation by yeast, which gas is primarily produced as a byproduct?
+AnswerA=Oxygen
+AnswerB=Carbon dioxide
+AnswerC=Methane
+AnswerD=Nitrogen
+RightAnswer=B
+Category=Science
+
+[Question18]
+Title=Which digestive enzyme is the main acid protease in the human stomach?
+AnswerA=Amylase
+AnswerB=Lipase
+AnswerC=Pepsin
+AnswerD=Trypsin
+RightAnswer=C
+Category=Science
+
+[Question19]
+Title=Which Carthaginian general famously crossed the Alps with war elephants to attack Rome?
+AnswerA=Hannibal
+AnswerB=Tiberius
+AnswerC=Cincinnatus
+AnswerD=Scipio
+RightAnswer=A
+Category=History
+
+[Question20]
+Title=Which river forms a substantial part of the border between the United States and Mexico?
+AnswerA=Colorado River
+AnswerB=Rio Grande
+AnswerC=Mississippi River
+AnswerD=Columbia River
+RightAnswer=B
+Category=Geography

@@ -1,0 +1,179 @@
+[Question1]
+Title=Who was the first President of the United States?
+AnswerA=George Washington
+AnswerB=Thomas Jefferson
+AnswerC=Abraham Lincoln
+AnswerD=John Adams
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=What is 5 + 3?
+AnswerA=7
+AnswerB=8
+AnswerC=9
+AnswerD=6
+RightAnswer=B
+Category=Math
+
+[Question3]
+Title=Which planet is closest to the Sun?
+AnswerA=Mercury
+AnswerB=Venus
+AnswerC=Earth
+AnswerD=Mars
+RightAnswer=A
+Category=Science
+
+[Question4]
+Title=What is the capital city of France?
+AnswerA=Rome
+AnswerB=Paris
+AnswerC=Berlin
+AnswerD=Madrid
+RightAnswer=B
+Category=Geography
+
+[Question5]
+Title=In soccer, how many players are on each team on the field?
+AnswerA=11
+AnswerB=10
+AnswerC=12
+AnswerD=9
+RightAnswer=A
+Category=Sports
+
+[Question6]
+Title=Who painted the -> Mona Lisa?
+AnswerA=Leonardo da Vinci
+AnswerB=Vincent van Gogh
+AnswerC=Michelangelo
+AnswerD=Pablo Picasso
+RightAnswer=A
+Category=Art
+
+[Question7]
+Title=What is 10 - 4?
+AnswerA=6
+AnswerB=5
+AnswerC=7
+AnswerD=4
+RightAnswer=A
+Category=Math
+
+[Question8]
+Title=Which ocean is the largest on Earth?
+AnswerA=Atlantic Ocean
+AnswerB=Indian Ocean
+AnswerC=Pacific Ocean
+AnswerD=Arctic Ocean
+RightAnswer=C
+Category=Geography
+
+[Question9]
+Title=What gas do humans breathe in to survive?
+AnswerA=Oxygen
+AnswerB=Carbon Dioxide
+AnswerC=Nitrogen
+AnswerD=Hydrogen
+RightAnswer=A
+Category=Science
+
+[Question10]
+Title=In basketball, how many points is a free throw worth?
+AnswerA=1
+AnswerB=2
+AnswerC=3
+AnswerD=0
+RightAnswer=A
+Category=Sports
+
+[Question11]
+Title=Which country did the Titanic depart from on its maiden voyage?
+AnswerA=USA
+AnswerB=England
+AnswerC=France
+AnswerD=Germany
+RightAnswer=B
+Category=History
+
+[Question12]
+Title=What is 7 x 6?
+AnswerA=42
+AnswerB=36
+AnswerC=48
+AnswerD=40
+RightAnswer=A
+Category=Math
+
+[Question13]
+Title=Which element has the chemical symbol ->O?
+AnswerA=Oxygen
+AnswerB=Gold
+AnswerC=Osmium
+AnswerD=Oganesson
+RightAnswer=A
+Category=Science
+
+[Question14]
+Title=Which continent is Egypt located in?
+AnswerA=Asia
+AnswerB=Africa
+AnswerC=Europe
+AnswerD=South America
+RightAnswer=B
+Category=Geography
+
+[Question15]
+Title=Which sport uses a puck?
+AnswerA=Hockey
+AnswerB=Basketball
+AnswerC=Soccer
+AnswerD=Baseball
+RightAnswer=A
+Category=Sports
+
+[Question16]
+Title=Who painted the ceiling of the Sistine Chapel?
+AnswerA=Michelangelo
+AnswerB=Raphael
+AnswerC=Donatello
+AnswerD=Leonardo da Vinci
+RightAnswer=A
+Category=Art
+
+[Question17]
+Title=Which empire built the Colosseum?
+AnswerA=Roman Empire
+AnswerB=Greek Empire
+AnswerC=Ottoman Empire
+AnswerD=Byzantine Empire
+RightAnswer=A
+Category=History
+
+[Question18]
+Title=What is 15 / 3?
+AnswerA=4
+AnswerB=5
+AnswerC=6
+AnswerD=3
+RightAnswer=B
+Category=Math
+
+[Question19]
+Title=Which is the largest planet in our solar system?
+AnswerA=Earth
+AnswerB=Mars
+AnswerC=Jupiter
+AnswerD=Saturn
+RightAnswer=C
+Category=Science
+
+[Question20]
+Title=Which famous painting shows a woman with a mysterious smile?
+AnswerA=The Starry Night
+AnswerB=Mona Lisa
+AnswerC=The Scream
+AnswerD=Girl with a Pearl Earring
+RightAnswer=B
+Category=Art

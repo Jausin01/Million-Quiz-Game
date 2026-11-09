@@ -1,0 +1,179 @@
+[Question1]
+Title=Which English king signed the Magna Carta in 1215?
+AnswerA=Henry II
+AnswerB=John
+AnswerC=Richard I
+AnswerD=Edward I
+RightAnswer=B
+Category=History
+
+[Question2]
+Title=Which 19th-century conflict is also known as the War of the Pacific (1879–1884)?
+AnswerA=War between Argentina and Chile
+AnswerB=War between Peru and Bolivia vs Chile
+AnswerC=War between Brazil and Paraguay
+AnswerD=War between Ecuador and Colombia
+RightAnswer=B
+Category=History
+
+[Question3]
+Title=Which U.S. amendment abolished slavery in 1865?
+AnswerA=12th Amendment
+AnswerB=13th Amendment
+AnswerC=14th Amendment
+AnswerD=15th Amendment
+RightAnswer=B
+Category=History
+
+[Question4]
+Title=Which strait separates the island of Great Britain from continental Europe at the narrowest point?
+AnswerA=English Channel
+AnswerB=North Sea
+AnswerC=Strait of Dover
+AnswerD=Irish Sea
+RightAnswer=C
+Category=Geography
+
+[Question5]
+Title=Which African capital city lies on two continents (partly in Europe and partly in Asia)? 
+AnswerA=Cairo
+AnswerB=Istanbul
+AnswerC=Algiers
+AnswerD=Tripoli
+RightAnswer=B
+Category=Geography
+
+[Question6]
+Title=Which U.S. state is the farthest north in the United States?
+AnswerA=Alaska
+AnswerB=Minnesota
+AnswerC=Washington
+AnswerD=Maine
+RightAnswer=A
+Category=Geography
+
+[Question7]
+Title=What is the remainder when 2^20 is divided by 3?
+AnswerA=0
+AnswerB=1
+AnswerC=2
+AnswerD=3
+RightAnswer=B
+Category=Math
+
+[Question8]
+Title=If f(x)=x^3, what is f'(2)?
+AnswerA=4
+AnswerB=6
+AnswerC=8
+AnswerD=12
+RightAnswer=C
+Category=Math
+
+[Question9]
+Title=What is the sum of the interior angles of a regular octagon?
+AnswerA=900°
+AnswerB=1080°
+AnswerC=720°
+AnswerD=1260°
+RightAnswer=B
+Category=Math
+
+[Question10]
+Title=How long (in minutes) is each quarter in a standard NBA basketball game?
+AnswerA=10 minutes
+AnswerB=12 minutes
+AnswerC=15 minutes
+AnswerD=8 minutes
+RightAnswer=B
+Category=Sports
+
+[Question11]
+Title=Which nation has won the most Rugby World Cups as of 2025?
+AnswerA=New Zealand
+AnswerB=Australia
+AnswerC=South Africa
+AnswerD=England
+RightAnswer=C
+Category=Sports
+
+[Question12]
+Title=Which Olympic sport uses the terms "cleans" and "snatches"?
+AnswerA=Weightlifting
+AnswerB=Powerlifting
+AnswerC=Gymnastics
+AnswerD=Rowing
+RightAnswer=A
+Category=Sports
+
+[Question13]
+Title=Which painter is most associated with the Fauvism movement?
+AnswerA=Henri Matisse
+AnswerB=Edgar Degas
+AnswerC=Paul Klee
+AnswerD=Caspar David Friedrich
+RightAnswer=A
+Category=Art
+
+[Question14]
+Title=Which technique involves painting on wet plaster, used in many Renaissance frescos?
+AnswerA=Tempera
+AnswerB=Oil painting
+AnswerC=Fresco
+AnswerD=Acrylic
+RightAnswer=C
+Category=Art
+
+[Question15]
+Title=Which sculptor is known for his large-scale public works and the kinetic “Mobiles”?
+AnswerA=Constantin Brâncuși
+AnswerB=Alexander Calder
+AnswerC=Henry Moore
+AnswerD=Auguste Rodin
+RightAnswer=B
+Category=Art
+
+[Question16]
+Title=Which particle mediates the electromagnetic force?
+AnswerA=Gluon
+AnswerB=Photon
+AnswerC=W boson
+AnswerD=Higgs boson
+RightAnswer=B
+Category=Science
+
+[Question17]
+Title=Which law states that the total energy of an isolated system remains constant?
+AnswerA=First law of thermodynamics
+AnswerB=Second law of thermodynamics
+AnswerC=Newton's third law
+AnswerD=Law of conservation of momentum
+RightAnswer=A
+Category=Science
+
+[Question18]
+Title=Which vitamin deficiency causes scurvy?
+AnswerA=Vitamin A
+AnswerB=Vitamin B12
+AnswerC=Vitamin C
+AnswerD=Vitamin D
+RightAnswer=C
+Category=Science
+
+[Question19]
+Title=Which scale measures the hardness of minerals by scratching (from 1 to 10)?
+AnswerA=Mohs scale
+AnswerB=Richter scale
+AnswerC=Beaufort scale
+AnswerD=Fujita scale
+RightAnswer=A
+Category=Science
+
+[Question20]
+Title=Which sea is landlocked and bordered by Jordan, Israel/Palestine and the West Bank?
+AnswerA=Dead Sea
+AnswerB=Red Sea
+AnswerC=Arabian Sea
+AnswerD=Mediterranean Sea
+RightAnswer=A
+Category=Geography

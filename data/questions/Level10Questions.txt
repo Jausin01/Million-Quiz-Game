@@ -1,0 +1,179 @@
+[Question1]
+Title=In what year did the Spanish Armada attempt to invade England?
+AnswerA=1588
+AnswerB=1571
+AnswerC=1596
+AnswerD=1563
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=Which English monarch was nicknamed "Bloody Mary"?
+AnswerA=Mary I
+AnswerB=Elizabeth I
+AnswerC=Mary, Queen of Scots
+AnswerD=Anne Boleyn
+RightAnswer=A
+Category=History
+
+[Question3]
+Title=Which pre-Columbian city was the capital of the Aztec Empire?
+AnswerA=Cuzco
+AnswerB=Tenochtitlan
+AnswerC=Tikal
+AnswerD=Teotihuacan
+RightAnswer=B
+Category=History
+
+[Question4]
+Title=What is the capital city of Kazakhstan?
+AnswerA=Almaty
+AnswerB=Astana
+AnswerC=Shymkent
+AnswerD=Karaganda
+RightAnswer=B
+Category=Geography
+
+[Question5]
+Title=Which U.S. state contains the city of Tucson?
+AnswerA=California
+AnswerB=Arizona
+AnswerC=New Mexico
+AnswerD=Texas
+RightAnswer=B
+Category=Geography
+
+[Question6]
+Title=Which lake is the largest by surface area in Africa?
+AnswerA=Lake Chad
+AnswerB=Lake Victoria
+AnswerC=Lake Tanganyika
+AnswerD=Lake Turkana
+RightAnswer=B
+Category=Geography
+
+[Question7]
+Title=What is 7^2 + 5^2 ?
+AnswerA=61
+AnswerB=74
+AnswerC=84
+AnswerD=58
+RightAnswer=B
+Category=Math
+
+[Question8]
+Title=Solve for x: 2(x - 3) = 10
+AnswerA=5
+AnswerB=6
+AnswerC=8
+AnswerD=7
+RightAnswer=C
+Category=Math
+
+[Question9]
+Title=What is the derivative of sin(2x) with respect to x?
+AnswerA=cos(2x)
+AnswerB=2 cos(2x)
+AnswerC=2 sin(2x)
+AnswerD=−2 cos(2x)
+RightAnswer=B
+Category=Math
+
+[Question10]
+Title=How many players from one team are in the water during an Olympic water polo match?
+AnswerA=6
+AnswerB=7
+AnswerC=8
+AnswerD=9
+RightAnswer=B
+Category=Sports
+
+[Question11]
+Title=Which city hosted the 1936 Summer Olympics?
+AnswerA=Berlin
+AnswerB=Rome
+AnswerC=Tokyo
+AnswerD=Paris
+RightAnswer=A
+Category=Sports
+
+[Question12]
+Title=Which nation won the first FIFA World Cup in 1930?
+AnswerA=Argentina
+AnswerB=Uruguay
+AnswerC=Brazil
+AnswerD=Italy
+RightAnswer=B
+Category=Sports
+
+[Question13]
+Title=Which art movement is most associated with spontaneous drip painting and Jackson Pollock?
+AnswerA=Impressionism
+AnswerB=Surrealism
+AnswerC=Abstract Expressionism
+AnswerD=Cubism
+RightAnswer=C
+Category=Art
+
+[Question14]
+Title=Which Dutch painter created "Girl with a Pearl Earring"?
+AnswerA=Rembrandt
+AnswerB=Johannes Vermeer
+AnswerC=Jan van Eyck
+AnswerD=Pieter Bruegel
+RightAnswer=B
+Category=Art
+
+[Question15]
+Title=Which artist painted "The Last Supper"?
+AnswerA=Michelangelo
+AnswerB=Raphael
+AnswerC=Leonardo da Vinci
+AnswerD=Titian
+RightAnswer=C
+Category=Art
+
+[Question16]
+Title=Which protein carries oxygen in human red blood cells?
+AnswerA=Myosin
+AnswerB=Collagen
+AnswerC=Hemoglobin
+AnswerD=Keratin
+RightAnswer=C
+Category=Science
+
+[Question17]
+Title=Which planet has a day that is longer than its year?
+AnswerA=Mercury
+AnswerB=Venus
+AnswerC=Mars
+AnswerD=Mercury and Venus
+RightAnswer=B
+Category=Science
+
+[Question18]
+Title=Which scientist is credited with discovering penicillin in 1928?
+AnswerA=Louis Pasteur
+AnswerB=Alexander Fleming
+AnswerC=Robert Koch
+AnswerD=Joseph Lister
+RightAnswer=B
+Category=Science
+
+[Question19]
+Title=What is the least common multiple (LCM) of 12 and 18?
+AnswerA=36
+AnswerB=72
+AnswerC=18
+AnswerD=24
+RightAnswer=A
+Category=Math
+
+[Question20]
+Title=Which landlocked country is completely surrounded by South Africa?
+AnswerA=Eswatini
+AnswerB=Lesotho
+AnswerC=Botswana
+AnswerD=Zimbabwe
+RightAnswer=B
+Category=Geography

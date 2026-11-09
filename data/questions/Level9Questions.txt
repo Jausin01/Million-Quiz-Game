@@ -1,0 +1,179 @@
+[Question1]
+Title=In which year did the Berlin Wall fall? (var 2)
+AnswerA=1987
+AnswerB=1989
+AnswerC=1991
+AnswerD=1993
+RightAnswer=B
+Category=History
+
+[Question2]
+Title=Who was the first Holy Roman Emperor crowned in 800 AD? (var 2)
+AnswerA=Charlemagne
+AnswerB=Otto I
+AnswerC=Frederick Barbarossa
+AnswerD=Constantine
+RightAnswer=A
+Category=History
+
+[Question3]
+Title=The Treaty of Versailles ended which major war? (var 2)
+AnswerA=Franco-Prussian War
+AnswerB=World War I
+AnswerC=World War II
+AnswerD=Crimean War
+RightAnswer=B
+Category=History
+
+[Question4]
+Title=Which country has the city of Timbuktu? (var 2)
+AnswerA=Niger
+AnswerB=Mali
+AnswerC=Chad
+AnswerD=Sudan
+RightAnswer=B
+Category=Geography
+
+[Question5]
+Title=What is the smallest independent country in the world by area? (var 2)
+AnswerA=Monaco
+AnswerB=San Marino
+AnswerC=Vatican City
+AnswerD=Liechtenstein
+RightAnswer=C
+Category=Geography
+
+[Question6]
+Title=Which mountain range contains Mount Everest? (var 2)
+AnswerA=Andes
+AnswerB=Himalayas
+AnswerC=Karakoram
+AnswerD=Alps
+RightAnswer=B
+Category=Geography
+
+[Question7]
+Title=What is the square root of 2025? (var 2)
+AnswerA=45
+AnswerB=47
+AnswerC=40
+AnswerD=42
+RightAnswer=A
+Category=Math
+
+[Question8]
+Title=What is the sum of the internal angles of a hexagon? (var 2)
+AnswerA=540°
+AnswerB=720°
+AnswerC=900°
+AnswerD=1080°
+RightAnswer=B
+Category=Math
+
+[Question9]
+Title=If log₁₀(1000) = x, what is x? (var 2)
+AnswerA=1
+AnswerB=2
+AnswerC=3
+AnswerD=4
+RightAnswer=C
+Category=Math
+
+[Question10]
+Title=Who won the men’s singles Wimbledon Championship in 2008 after a famous final against Roger Federer? (var 2)
+AnswerA=Novak Djokovic
+AnswerB=Rafael Nadal
+AnswerC=Andy Murray
+AnswerD=Lleyton Hewitt
+RightAnswer=B
+Category=Sports
+
+[Question11]
+Title=Which country hosted the 1998 FIFA World Cup? (var 2)
+AnswerA=Germany
+AnswerB=France
+AnswerC=Italy
+AnswerD=United States
+RightAnswer=B
+Category=Sports
+
+[Question12]
+Title=In basketball, how many points is a successful free throw worth? (var 2)
+AnswerA=1
+AnswerB=2
+AnswerC=3
+AnswerD=4
+RightAnswer=A
+Category=Sports
+
+[Question13]
+Title=Who painted the ceiling of the Sistine Chapel? (var 2)
+AnswerA=Leonardo da Vinci
+AnswerB=Michelangelo
+AnswerC=Raphael
+AnswerD=Giotto
+RightAnswer=B
+Category=Art
+
+[Question14]
+Title=Which Spanish artist is known as a founder of Cubism? (var 2)
+AnswerA=Salvador Dalí
+AnswerB=Francisco Goya
+AnswerC=Pablo Picasso
+AnswerD=Diego Velázquez
+RightAnswer=C
+Category=Art
+
+[Question15]
+Title=The sculpture “David” was created by which Renaissance artist? (var 2)
+AnswerA=Donatello
+AnswerB=Michelangelo
+AnswerC=Bernini
+AnswerD=Brunelleschi
+RightAnswer=B
+Category=Art
+
+[Question16]
+Title=What gas do humans exhale in the greatest quantity? (var 2)
+AnswerA=Oxygen
+AnswerB=Carbon dioxide
+AnswerC=Nitrogen
+AnswerD=Methane
+RightAnswer=B
+Category=Science
+
+[Question17]
+Title=Which planet is known as the “Morning Star” and “Evening Star”? (var 2)
+AnswerA=Mars
+AnswerB=Venus
+AnswerC=Jupiter
+AnswerD=Mercury
+RightAnswer=B
+Category=Science
+
+[Question18]
+Title=What is the hardest naturally occurring mineral? (var 2)
+AnswerA=Quartz
+AnswerB=Diamond
+AnswerC=Corundum
+AnswerD=Topaz
+RightAnswer=B
+Category=Science
+
+[Question19]
+Title=Who is credited with discovering penicillin in 1928? (var 2)
+AnswerA=Louis Pasteur
+AnswerB=Alexander Fleming
+AnswerC=Joseph Lister
+AnswerD=Robert Koch
+RightAnswer=B
+Category=Science
+
+[Question20]
+Title=Which part of the cell contains genetic material in the form of DNA? (var 2)
+AnswerA=Ribosome
+AnswerB=Nucleus
+AnswerC=Mitochondria
+AnswerD=Golgi apparatus
+RightAnswer=B
+Category=Science

@@ -1,0 +1,179 @@
+[Question1]
+Title=Which treaty ended World War I?
+AnswerA=Treaty of Versailles
+AnswerB=Treaty of Utrecht
+AnswerC=Treaty of Paris
+AnswerD=Treaty of Ghent
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=Which ancient wonder was located in Olympia, Greece?
+AnswerA=Great Pyramid of Giza
+AnswerB=Statue of Zeus
+AnswerC=Colossus of Rhodes
+AnswerD=Mausoleum at Halicarnassus
+RightAnswer=B
+Category=History
+
+[Question3]
+Title=Which African country was formerly known as Abyssinia?
+AnswerA=Eritrea
+AnswerB=Ethiopia
+AnswerC=Somalia
+AnswerD=Sudan
+RightAnswer=B
+Category=Geography
+
+[Question4]
+Title=Which is the largest desert in the world?
+AnswerA=Sahara
+AnswerB=Gobi
+AnswerC=Antarctic Desert
+AnswerD=Kalahari
+RightAnswer=C
+Category=Geography
+
+[Question5]
+Title=Which is the square root of 484?
+AnswerA=20
+AnswerB=22
+AnswerC=24
+AnswerD=26
+RightAnswer=B
+Category=Math
+
+[Question6]
+Title=What is the value of pi approximately to three decimals?
+AnswerA=3.141
+AnswerB=3.145
+AnswerC=3.149
+AnswerD=3.139
+RightAnswer=A
+Category=Math
+
+[Question7]
+Title=Which country won the first FIFA World Cup in 1930?
+AnswerA=Brazil
+AnswerB=Uruguay
+AnswerC=Argentina
+AnswerD=Italy
+RightAnswer=B
+Category=Sports
+
+[Question8]
+Title=Which NBA player is known as -> The Mailman?
+AnswerA=Michael Jordan
+AnswerB=Shaquille O’Neal
+AnswerC=Karl Malone
+AnswerD=Charles Barkley
+RightAnswer=C
+Category=Sports
+
+[Question9]
+Title=Who painted -> The School of Athens?
+AnswerA=Michelangelo
+AnswerB=Raphael
+AnswerC=Leonardo da Vinci
+AnswerD=Donatello
+RightAnswer=B
+Category=Art
+
+[Question10]
+Title=Which Dutch painter is famous for cutting off part of his ear?
+AnswerA=Vincent van Gogh
+AnswerB=Rembrandt
+AnswerC=Johannes Vermeer
+AnswerD=Piet Mondrian
+RightAnswer=A
+Category=Art
+
+[Question11]
+Title=What is the hardest natural substance on Earth?
+AnswerA=Quartz
+AnswerB=Diamond
+AnswerC=Obsidian
+AnswerD=Topaz
+RightAnswer=B
+Category=Science
+
+[Question12]
+Title=Which planet has the most moons?
+AnswerA=Mars
+AnswerB=Jupiter
+AnswerC=Saturn
+AnswerD=Neptune
+RightAnswer=C
+Category=Science
+
+[Question13]
+Title=Which war was triggered by the assassination of Archduke Franz Ferdinand?
+AnswerA=World War I
+AnswerB=World War II
+AnswerC=Crimean War
+AnswerD=Franco-Prussian War
+RightAnswer=A
+Category=History
+
+[Question14]
+Title=Which river is the longest in South America?
+AnswerA=Orinoco
+AnswerB=Amazon
+AnswerC=São Francisco
+AnswerD=Paraná
+RightAnswer=B
+Category=Geography
+
+[Question15]
+Title=Which is the cube root of 512?
+AnswerA=6
+AnswerB=7
+AnswerC=8
+AnswerD=9
+RightAnswer=C
+Category=Math
+
+[Question16]
+Title=Which athlete holds the men’s 100m world record?
+AnswerA=Carl Lewis
+AnswerB=Tyson Gay
+AnswerC=Usain Bolt
+AnswerD=Yohan Blake
+RightAnswer=C
+Category=Sports
+
+[Question17]
+Title=Who sculpted -> David?
+AnswerA=Michelangelo
+AnswerB=Bernini
+AnswerC=Donatello
+AnswerD=Ghiberti
+RightAnswer=A
+Category=Art
+
+[Question18]
+Title=Which scientist proposed the three laws of motion?
+AnswerA=Albert Einstein
+AnswerB=Isaac Newton
+AnswerC=Galileo Galilei
+AnswerD=Johannes Kepler
+RightAnswer=B
+Category=Science
+
+[Question19]
+Title=Who was the first President of the United States?
+AnswerA=Thomas Jefferson
+AnswerB=Abraham Lincoln
+AnswerC=George Washington
+AnswerD=John Adams
+RightAnswer=C
+Category=History
+
+[Question20]
+Title=Which gas do humans exhale in large amounts?
+AnswerA=Oxygen
+AnswerB=Carbon dioxide
+AnswerC=Nitrogen
+AnswerD=Helium
+RightAnswer=B
+Category=Science

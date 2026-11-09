@@ -1,0 +1,179 @@
+[Question1]
+Title=Who wrote "The Prince"?
+AnswerA=Niccolò Machiavelli
+AnswerB=Thomas More
+AnswerC=Erasmus
+AnswerD=Dante Alighieri
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=Which empire was centered at Constantinople until 1453?
+AnswerA=Ottoman Empire
+AnswerB=Mongol Empire
+AnswerC=Byzantine Empire
+AnswerD=Persian Empire
+RightAnswer=C
+Category=History
+
+[Question3]
+Title=What is the capital city of Mongolia?
+AnswerA=Ulan-Ude
+AnswerB=Ulaanbaatar
+AnswerC=Astana
+AnswerD=Bishkek
+RightAnswer=B
+Category=Geography
+
+[Question4]
+Title=Which river is the longest in Asia?
+AnswerA=Yellow River
+AnswerB=Ganges
+AnswerC=Yangtze
+AnswerD=Mekong
+RightAnswer=C
+Category=Geography
+
+[Question5]
+Title=What is the 13th number in the Fibonacci sequence (starting 1, 1, 2...)?
+AnswerA=233
+AnswerB=144
+AnswerC=377
+AnswerD=89
+RightAnswer=A
+Category=Math
+
+[Question6]
+Title=Compute 15² − 14².
+AnswerA=29
+AnswerB=225
+AnswerC=1
+AnswerD=210
+RightAnswer=A
+Category=Math
+
+[Question7]
+Title=Evaluate the integral ∫₀¹ x² dx.
+AnswerA=1/2
+AnswerB=1/3
+AnswerC=1/4
+AnswerD=2/3
+RightAnswer=B
+Category=Math
+
+[Question8]
+Title=What is the chemical symbol for tin?
+AnswerA=Sn
+AnswerB=Ti
+AnswerC=In
+AnswerD=Si
+RightAnswer=A
+Category=Science
+
+[Question9]
+Title=Which planet in the solar system has the greatest average density?
+AnswerA=Mercury
+AnswerB=Earth
+AnswerC=Jupiter
+AnswerD=Mars
+RightAnswer=B
+Category=Science
+
+[Question10]
+Title=Which composer wrote "The Four Seasons"?
+AnswerA=Johann Sebastian Bach
+AnswerB=Antonio Vivaldi
+AnswerC=Wolfgang Amadeus Mozart
+AnswerD=Ludwig van Beethoven
+RightAnswer=B
+Category=Art
+
+[Question11]
+Title=Which artist painted "Impression, Sunrise", giving name to Impressionism?
+AnswerA=Édouard Manet
+AnswerB=Claude Monet
+AnswerC=Pierre-Auguste Renoir
+AnswerD=Paul Cézanne
+RightAnswer=B
+Category=Art
+
+[Question12]
+Title=Which country has hosted the Winter Olympics the most times?
+AnswerA=United States
+AnswerB=Norway
+AnswerC=Japan
+AnswerD=Canada
+RightAnswer=A
+Category=Sports
+
+[Question13]
+Title=In men’s Grand Slam tennis, how many sets are played in singles matches (standard format)?
+AnswerA=Best of 3
+AnswerB=Best of 5
+AnswerC=Best of 7
+AnswerD=Single set
+RightAnswer=B
+Category=Sports
+
+[Question14]
+Title=What is the least common multiple (LCM) of 8 and 12?
+AnswerA=24
+AnswerB=96
+AnswerC=16
+AnswerD=20
+RightAnswer=A
+Category=Math
+
+[Question15]
+Title=Which organelle contains chlorophyll and performs photosynthesis?
+AnswerA=Mitochondrion
+AnswerB=Chloroplast
+AnswerC=Golgi apparatus
+AnswerD=Ribosome
+RightAnswer=B
+Category=Science
+
+[Question16]
+Title=Which mathematician proved Fermat's Last Theorem in 1994?
+AnswerA=Pierre de Fermat
+AnswerB=Andrew Wiles
+AnswerC=Carl Friedrich Gauss
+AnswerD=Srinivasa Ramanujan
+RightAnswer=B
+Category=Math
+
+[Question17]
+Title=Who wrote the novel "Pride and Prejudice"?
+AnswerA=Jane Austen
+AnswerB=Charlotte Brontë
+AnswerC=Mary Shelley
+AnswerD=Emily Brontë
+RightAnswer=A
+Category=History
+
+[Question18]
+Title=Prague is the capital of which country?
+AnswerA=Poland
+AnswerB=Czech Republic
+AnswerC=Slovakia
+AnswerD=Austria
+RightAnswer=B
+Category=Geography
+
+[Question19]
+Title=Which art movement emphasizes non-representational forms and is associated with Kandinsky?
+AnswerA=Impressionism
+AnswerB=Expressionism
+AnswerC=Abstract art
+AnswerD=Realism
+RightAnswer=C
+Category=Art
+
+[Question20]
+Title=Approximately what is Avogadro’s number?
+AnswerA=6.02 × 10^23
+AnswerB=3.00 × 10^8
+AnswerC=1.60 × 10^-19
+AnswerD=9.81 × 10^0
+RightAnswer=A
+Category=Science

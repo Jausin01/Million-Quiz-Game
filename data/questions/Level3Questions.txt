@@ -1,0 +1,179 @@
+[Question1]
+Title=Which battle marked the end of Napoleon-s rule in 1815?
+AnswerA=Battle of Leipzig
+AnswerB=Battle of Waterloo
+AnswerC=Battle of Trafalgar
+AnswerD=Battle of Austerlitz
+RightAnswer=B
+Category=History
+
+[Question2]
+Title=Which artist painted -> Guernica?
+AnswerA=Vincent van Gogh
+AnswerB=Pablo Picasso
+AnswerC=Salvador Dalí
+AnswerD=Claude Monet
+RightAnswer=B
+Category=Art
+
+[Question3]
+Title=Which country has the most time zones?
+AnswerA=USA
+AnswerB=Russia
+AnswerC=France
+AnswerD=China
+RightAnswer=B
+Category=Geography
+
+[Question4]
+Title=Solve for x: 5x - 7 = 18
+AnswerA=5
+AnswerB=4
+AnswerC=6
+AnswerD=7
+RightAnswer=C
+Category=Math
+
+[Question5]
+Title=What is the chemical symbol for Gold?
+AnswerA=Ag
+AnswerB=Au
+AnswerC=Gd
+AnswerD=Ga
+RightAnswer=B
+Category=Science
+
+[Question6]
+Title=Which country won the first FIFA World Cup in 1930?
+AnswerA=Uruguay
+AnswerB=Brazil
+AnswerC=Argentina
+AnswerD=Italy
+RightAnswer=A
+Category=Sports
+
+[Question7]
+Title=Which empire was ruled by Genghis Khan?
+AnswerA=Ottoman Empire
+AnswerB=Mongol Empire
+AnswerC=Roman Empire
+AnswerD=Persian Empire
+RightAnswer=B
+Category=History
+
+[Question8]
+Title=Which African country has the largest population?
+AnswerA=Nigeria
+AnswerB=Egypt
+AnswerC=South Africa
+AnswerD=Kenya
+RightAnswer=A
+Category=Geography
+
+[Question9]
+Title=Calculate: 18 / 3 + 7
+AnswerA=13
+AnswerB=12
+AnswerC=11
+AnswerD=10
+RightAnswer=A
+Category=Math
+
+[Question10]
+Title=Which famous painting is also known as -> The Starry Night Over the Rhône?
+AnswerA=Claude Monet's Water Lilies
+AnswerB=Vincent van Gogh's Starry Night Over the Rhône
+AnswerC=Leonardo da Vinci's Last Supper
+AnswerD=Edvard Munch's The Scream
+RightAnswer=B
+Category=Art
+
+[Question11]
+Title=Which gas is most abundant in Earth's atmosphere?
+AnswerA=Oxygen
+AnswerB=Nitrogen
+AnswerC=Carbon Dioxide
+AnswerD=Hydrogen
+RightAnswer=B
+Category=Science
+
+[Question12]
+Title=Which country hosted the 2008 Summer Olympics?
+AnswerA=Japan
+AnswerB=China
+AnswerC=Greece
+AnswerD=Australia
+RightAnswer=B
+Category=Sports
+
+[Question13]
+Title=What was the main purpose of the Berlin Wall?
+AnswerA=Separate East and West Berlin
+AnswerB=Protect Berlin from floods
+AnswerC=Mark the location of government buildings
+AnswerD=Serve as a railway divider
+RightAnswer=A
+Category=History
+
+[Question14]
+Title=Which desert is the largest in the world?
+AnswerA=Sahara
+AnswerB=Arabian
+AnswerC=Gobi
+AnswerD=Kalahari
+RightAnswer=A
+Category=Geography
+
+[Question15]
+Title=What is 9 × 7 - 5?
+AnswerA=58
+AnswerB=61
+AnswerC=63
+AnswerD=62
+RightAnswer=D
+Category=Math
+
+[Question16]
+Title=Who painted -> The Birth of Venus <- ?
+AnswerA=Leonardo da Vinci
+AnswerB=Sandro Botticelli
+AnswerC=Raphael
+AnswerD=Michelangelo
+RightAnswer=B
+Category=Art
+
+[Question17]
+Title=Which element has the atomic number 6?
+AnswerA=Carbon
+AnswerB=Oxygen
+AnswerC=Helium
+AnswerD=Nitrogen
+RightAnswer=A
+Category=Science
+
+[Question18]
+Title=In which sport is the term -> alley-oop <- used?
+AnswerA=Volleyball
+AnswerB=Basketball
+AnswerC=Tennis
+AnswerD=Handball
+RightAnswer=B
+Category=Sports
+
+[Question19]
+Title=Which treaty ended World War I?
+AnswerA=Treaty of Versailles
+AnswerB=Treaty of Paris
+AnswerC=Treaty of Ghent
+AnswerD=Treaty of Berlin
+RightAnswer=A
+Category=History
+
+[Question20]
+Title=Which mountain range separates Europe and Asia?
+AnswerA=Himalayas
+AnswerB=Ural Mountains
+AnswerC=Alps
+AnswerD=Andes
+RightAnswer=B
+Category=Geography

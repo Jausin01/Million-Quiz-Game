@@ -1,0 +1,179 @@
+[Question1]
+Title=Which year did the French Revolution officially begin? (var 1)
+AnswerA=1789
+AnswerB=1792
+AnswerC=1776
+AnswerD=1804
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=Which empire was ruled by Suleiman the Magnificent? (var 1)
+AnswerA=Roman Empire
+AnswerB=Ottoman Empire
+AnswerC=Mongol Empire
+AnswerD=Byzantine Empire
+RightAnswer=B
+Category=History
+
+[Question3]
+Title=What was the capital of the Byzantine Empire? (var 1)
+AnswerA=Rome
+AnswerB=Athens
+AnswerC=Constantinople
+AnswerD=Alexandria
+RightAnswer=C
+Category=History
+
+[Question4]
+Title=Which is the longest river in South America? (var 1)
+AnswerA=Amazon River
+AnswerB=Orinoco River
+AnswerC=São Francisco River
+AnswerD=Paraná River
+RightAnswer=A
+Category=Geography
+
+[Question5]
+Title=Which desert is the largest hot desert in the world? (var 1)
+AnswerA=Gobi
+AnswerB=Sahara
+AnswerC=Kalahari
+AnswerD=Arabian
+RightAnswer=B
+Category=Geography
+
+[Question6]
+Title=What is the capital city of Canada? (var 1)
+AnswerA=Toronto
+AnswerB=Ottawa
+AnswerC=Vancouver
+AnswerD=Montreal
+RightAnswer=B
+Category=Geography
+
+[Question7]
+Title=Which number is known as the first prime after 100? (var 1)
+AnswerA=101
+AnswerB=103
+AnswerC=107
+AnswerD=109
+RightAnswer=A
+Category=Math
+
+[Question8]
+Title=What is the value of 12! (12 factorial)? (var 1)
+AnswerA=479001600
+AnswerB=39916800
+AnswerC=6227020800
+AnswerD=3628800
+RightAnswer=A
+Category=Math
+
+[Question9]
+Title=If a triangle has angles 30°, 60°, and 90°, which side is opposite the 90° angle? (var 1)
+AnswerA=Equal to the shortest side
+AnswerB=Twice the shortest side
+AnswerC=√3 times the shortest side
+AnswerD=Half of the shortest side
+RightAnswer=B
+Category=Math
+
+[Question10]
+Title=Which country won the FIFA World Cup in 2006? (var 1)
+AnswerA=Brazil
+AnswerB=France
+AnswerC=Italy
+AnswerD=Germany
+RightAnswer=C
+Category=Sports
+
+[Question11]
+Title=Which athlete is known as “Lightning Bolt”? (var 1)
+AnswerA=Michael Phelps
+AnswerB=Usain Bolt
+AnswerC=Carl Lewis
+AnswerD=Mo Farah
+RightAnswer=B
+Category=Sports
+
+[Question12]
+Title=Which NBA team won the championship in 1996 with Michael Jordan? (var 1)
+AnswerA=Los Angeles Lakers
+AnswerB=Boston Celtics
+AnswerC=Chicago Bulls
+AnswerD=Detroit Pistons
+RightAnswer=C
+Category=Sports
+
+[Question13]
+Title=Who painted “The School of Athens”? (var 1)
+AnswerA=Michelangelo
+AnswerB=Leonardo da Vinci
+AnswerC=Raphael
+AnswerD=Donatello
+RightAnswer=C
+Category=Art
+
+[Question14]
+Title=Which artist cut off part of his own ear? (var 1)
+AnswerA=Vincent van Gogh
+AnswerB=Pablo Picasso
+AnswerC=Claude Monet
+AnswerD=Paul Cézanne
+RightAnswer=A
+Category=Art
+
+[Question15]
+Title=“The Persistence of Memory” with melting clocks was painted by which artist? (var 1)
+AnswerA=Salvador Dalí
+AnswerB=Joan Miró
+AnswerC=Henri Matisse
+AnswerD=Andy Warhol
+RightAnswer=A
+Category=Art
+
+[Question16]
+Title=Which scientist proposed the three laws of motion? (var 1)
+AnswerA=Albert Einstein
+AnswerB=Isaac Newton
+AnswerC=Galileo Galilei
+AnswerD=Johannes Kepler
+RightAnswer=B
+Category=Science
+
+[Question17]
+Title=What is the chemical symbol for gold? (var 1)
+AnswerA=Ag
+AnswerB=Au
+AnswerC=Pb
+AnswerD=Pt
+RightAnswer=B
+Category=Science
+
+[Question18]
+Title=What is the process by which plants make their food using sunlight? (var 1)
+AnswerA=Respiration
+AnswerB=Photosynthesis
+AnswerC=Fermentation
+AnswerD=Transpiration
+RightAnswer=B
+Category=Science
+
+[Question19]
+Title=Which planet has the largest volcano in the solar system? (var 1)
+AnswerA=Earth
+AnswerB=Venus
+AnswerC=Mars
+AnswerD=Jupiter
+RightAnswer=C
+Category=Science
+
+[Question20]
+Title=Which scientist is known for the theory of relativity? (var 1)
+AnswerA=Niels Bohr
+AnswerB=Max Planck
+AnswerC=Albert Einstein
+AnswerD=Erwin Schrödinger
+RightAnswer=C
+Category=Science

@@ -1,0 +1,179 @@
+[Question1]
+Title=Which conquistador led the expedition that caused the fall of the Aztec Empire?
+AnswerA=Hernán Cortés
+AnswerB=Francisco Pizarro
+AnswerC=Christopher Columbus
+AnswerD=Vasco Núñez de Balboa
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=Which treaty in 1494 divided newly discovered lands between Spain and Portugal?
+AnswerA=Treaty of Utrecht
+AnswerB=Treaty of Paris
+AnswerC=Treaty of Tordesillas
+AnswerD=Treaty of Ghent
+RightAnswer=C
+Category=History
+
+[Question3]
+Title=What historic event occurred in Paris on July 14, 1789?
+AnswerA=Coup of 18 Brumaire
+AnswerB=Storming of the Bastille
+AnswerC=Reign of Terror begins
+AnswerD=Coronation of Napoleon
+RightAnswer=B
+Category=History
+
+[Question4]
+Title=Which body of water lies between Saudi Arabia and Africa?
+AnswerA=Persian Gulf
+AnswerB=Gulf of Aden
+AnswerC=Red Sea
+AnswerD=Arabian Sea
+RightAnswer=C
+Category=Geography
+
+[Question5]
+Title=Which capital city is located on the Yarra River?
+AnswerA=Sydney
+AnswerB=Melbourne
+AnswerC=Brisbane
+AnswerD=Perth
+RightAnswer=B
+Category=Geography
+
+[Question6]
+Title=Which African country is entirely in the Southern Hemisphere and famous for Table Mountain?
+AnswerA=Kenya
+AnswerB=South Africa
+AnswerC=Egypt
+AnswerD=Mozambique
+RightAnswer=B
+Category=Geography
+
+[Question7]
+Title=What is the value of 2^10?
+AnswerA=512
+AnswerB=1024
+AnswerC=2048
+AnswerD=256
+RightAnswer=B
+Category=Math
+
+[Question8]
+Title=If f(x)=3x+2, what is f^{-1}(8) (the inverse function value at 8)?
+AnswerA=2
+AnswerB=8/3
+AnswerC= (8-2)/3
+AnswerD= (8+2)/3
+RightAnswer=C
+Category=Math
+
+[Question9]
+Title=What is the least prime factor of 221?
+AnswerA=13
+AnswerB=17
+AnswerC=11
+AnswerD=19
+RightAnswer=A
+Category=Math
+
+[Question10]
+Title=How many minutes are in a standard professional rugby union match (two halves)?
+AnswerA=60
+AnswerB=70
+AnswerC=80
+AnswerD=90
+RightAnswer=C
+Category=Sports
+
+[Question11]
+Title=Which country hosted the first Cricket World Cup in 1975?
+AnswerA=England
+AnswerB=Australia
+AnswerC=India
+AnswerD=West Indies
+RightAnswer=A
+Category=Sports
+
+[Question12]
+Title=In gymnastics, which apparatus is used in men’s artistic but not women’s artistic competitions?
+AnswerA=Uneven bars
+AnswerB=Pommel horse
+AnswerC=Balance beam
+AnswerD=Floor exercise
+RightAnswer=B
+Category=Sports
+
+[Question13]
+Title=Which painter is credited with pioneering pointillism?
+AnswerA=Claude Monet
+AnswerB=Georges Seurat
+AnswerC=Paul Cézanne
+AnswerD=Henri Matisse
+RightAnswer=B
+Category=Art
+
+[Question14]
+Title=Which Flemish artist painted detailed peasant scenes in the 16th century (e.g., "The Peasant Wedding")?
+AnswerA=Pieter Bruegel the Elder
+AnswerB=Jan van Eyck
+AnswerC=Peter Paul Rubens
+AnswerD=Hieronymus Bosch
+RightAnswer=A
+Category=Art
+
+[Question15]
+Title=Which pigment was historically made from ground lapis lazuli and prized in Renaissance paintings?
+AnswerA=Vermilion
+AnswerB=Ultramarine
+AnswerC=Ochre
+AnswerD=Carmine
+RightAnswer=B
+Category=Art
+
+[Question16]
+Title=Which organelle is primarily responsible for detoxification in liver cells?
+AnswerA=Mitochondrion
+AnswerB=Sarcoplasmic reticulum
+AnswerC=Smooth endoplasmic reticulum
+AnswerD=Golgi apparatus
+RightAnswer=C
+Category=Science
+
+[Question17]
+Title=Which law relates pressure and volume of a gas at constant temperature?
+AnswerA=Boyle's Law
+AnswerB=Charles's Law
+AnswerC=Avogadro's Law
+AnswerD=Ohm's Law
+RightAnswer=A
+Category=Science
+
+[Question18]
+Title=Which subatomic particle has approximately the same mass as a proton but no electric charge?
+AnswerA=Electron
+AnswerB=Neutron
+AnswerC=Positron
+AnswerD=Muon
+RightAnswer=B
+Category=Science
+
+[Question19]
+Title=Which mathematician is known for the theorem that in a right triangle a² + b² = c²?
+AnswerA=Euclid
+AnswerB=Pythagoras
+AnswerC=Fermat
+AnswerD=Archimedes
+RightAnswer=B
+Category=Math
+
+[Question20]
+Title=Which mountain range runs along the border between France and Spain?
+AnswerA=Alps
+AnswerB=Pyrenees
+AnswerC=Apennines
+AnswerD=Carpathians
+RightAnswer=B
+Category=Geography

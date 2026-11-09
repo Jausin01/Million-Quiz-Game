@@ -1,0 +1,179 @@
+[Question1]
+Title=Which year did the Meiji Restoration (1868) take place?
+AnswerA=1865
+AnswerB=1871
+AnswerC=1868
+AnswerD=1873
+RightAnswer=C
+Category=History
+
+[Question2]
+Title=Who painted the -> Starry Night?
+AnswerA=Claude Monet
+AnswerB=Vincent van Gogh
+AnswerC=Pablo Picasso
+AnswerD=Leonardo da Vinci
+RightAnswer=B
+Category=Art
+
+[Question3]
+Title=What is the capital city of Canada?
+AnswerA=Toronto
+AnswerB=Vancouver
+AnswerC=Ottawa
+AnswerD=Montreal
+RightAnswer=C
+Category=Geography
+
+[Question4]
+Title=Solve for x: 3x + 7 = 19
+AnswerA=4
+AnswerB=5
+AnswerC=6
+AnswerD=7
+RightAnswer=A
+Category=Math
+
+[Question5]
+Title=Which planet is known as the Red Planet?
+AnswerA=Venus
+AnswerB=Mars
+AnswerC=Jupiter
+AnswerD=Saturn
+RightAnswer=B
+Category=Science
+
+[Question6]
+Title=In which sport is the Davis Cup contested?
+AnswerA=Tennis
+AnswerB=Soccer
+AnswerC=Basketball
+AnswerD=Cricket
+RightAnswer=A
+Category=Sports
+
+[Question7]
+Title=Who was the first Emperor of Rome?
+AnswerA=Julius Caesar
+AnswerB=Augustus
+AnswerC=Nero
+AnswerD=Caligula
+RightAnswer=B
+Category=History
+
+[Question8]
+Title=Which river is the longest in South America?
+AnswerA=Amazon
+AnswerB=Paraná
+AnswerC=Orinoco
+AnswerD=São Francisco
+RightAnswer=A
+Category=Geography
+
+[Question9]
+Title=Calculate: 12 x 8
+AnswerA=90
+AnswerB=96
+AnswerC=88
+AnswerD=104
+RightAnswer=B
+Category=Math
+
+[Question10]
+Title=Which artist is famous for the painting -> The Persistence of Memory?
+AnswerA=Salvador Dalí
+AnswerB=Michelangelo
+AnswerC=Raphael
+AnswerD=Edvard Munch
+RightAnswer=A
+Category=Art
+
+[Question11]
+Title=What gas do plants absorb from the atmosphere for photosynthesis?
+AnswerA=Oxygen
+AnswerB=Carbon Dioxide
+AnswerC=Nitrogen
+AnswerD=Hydrogen
+RightAnswer=B
+Category=Science
+
+[Question12]
+Title=Which country won the FIFA World Cup in 2010?
+AnswerA=Brazil
+AnswerB=Germany
+AnswerC=Spain
+AnswerD=Netherlands
+RightAnswer=C
+Category=Sports
+
+[Question13]
+Title=The Great Fire of London occurred in which year?
+AnswerA=1666
+AnswerB=1676
+AnswerC=1656
+AnswerD=1686
+RightAnswer=A
+Category=History
+
+[Question14]
+Title=Which country has the largest land area in the world?
+AnswerA=USA
+AnswerB=Canada
+AnswerC=Russia
+AnswerD=China
+RightAnswer=C
+Category=Geography
+
+[Question15]
+Title=What is the square root of 144?
+AnswerA=10
+AnswerB=11
+AnswerC=12
+AnswerD=14
+RightAnswer=C
+Category=Math
+
+[Question16]
+Title=Which famous painting is displayed in the Louvre Museum in Paris?
+AnswerA=The Night Watch
+AnswerB=Mona Lisa
+AnswerC=The Scream
+AnswerD=Girl with a Pearl Earring
+RightAnswer=B
+Category=Art
+
+[Question17]
+Title=Which element has the chemical symbol -> Na?
+AnswerA=Neon
+AnswerB=Sodium
+AnswerC=Nickel
+AnswerD=Nitrogen
+RightAnswer=B
+Category=Science
+
+[Question18]
+Title=In which sport would you perform a slam dunk?
+AnswerA=Volleyball
+AnswerB=Basketball
+AnswerC=Handball
+AnswerD=Rugby
+RightAnswer=B
+Category=Sports
+
+[Question19]
+Title=Who signed the Emancipation Proclamation in the United States?
+AnswerA=George Washington
+AnswerB=Thomas Jefferson
+AnswerC=Abraham Lincoln
+AnswerD=James Madison
+RightAnswer=C
+Category=History
+
+[Question20]
+Title=Which mountain is the highest in the world?
+AnswerA=K2
+AnswerB=Mount Everest
+AnswerC=Kangchenjunga
+AnswerD=Lhotse
+RightAnswer=B
+Category=Geography

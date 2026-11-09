@@ -1,0 +1,179 @@
+[Question1]
+Title=Who was the first Holy Roman Emperor crowned in 800 AD?
+AnswerA=Charlemagne
+AnswerB=Otto I
+AnswerC=Frederick I Barbarossa
+AnswerD=Charles V
+RightAnswer=A
+Category=History
+
+[Question2]
+Title=Which empire was ruled by Mansa Musa in the 14th century?
+AnswerA=Songhai Empire
+AnswerB=Mali Empire
+AnswerC=Ghana Empire
+AnswerD=Kanem-Bornu Empire
+RightAnswer=B
+Category=History
+
+[Question3]
+Title=Which is the largest lake in Africa?
+AnswerA=Lake Tanganyika
+AnswerB=Lake Malawi
+AnswerC=Lake Victoria
+AnswerD=Lake Chad
+RightAnswer=C
+Category=Geography
+
+[Question4]
+Title=Mount Elbrus, the highest peak in Europe, is located in which country?
+AnswerA=Russia
+AnswerB=Georgia
+AnswerC=Turkey
+AnswerD=Kazakhstan
+RightAnswer=A
+Category=Geography
+
+[Question5]
+Title=What is the derivative of ln(x)?
+AnswerA=1
+AnswerB=1/x
+AnswerC=x
+AnswerD=ln(x)/x
+RightAnswer=B
+Category=Math
+
+[Question6]
+Title=How many prime numbers are there between 50 and 70?
+AnswerA=2
+AnswerB=3
+AnswerC=4
+AnswerD=5
+RightAnswer=B
+Category=Math
+
+[Question7]
+Title=Which country hosted the 2002 FIFA World Cup along with Japan?
+AnswerA=South Korea
+AnswerB=China
+AnswerC=Thailand
+AnswerD=Vietnam
+RightAnswer=A
+Category=Sports
+
+[Question8]
+Title=Which boxer was nicknamed -> The Greatest?
+AnswerA=Mike Tyson
+AnswerB=Joe Frazier
+AnswerC=Muhammad Ali
+AnswerD=George Foreman
+RightAnswer=C
+Category=Sports
+
+[Question9]
+Title=Who painted -> The Birth of Venus?
+AnswerA=Raphael
+AnswerB=Sandro Botticelli
+AnswerC=Titian
+AnswerD=Caravaggio
+RightAnswer=B
+Category=Art
+
+[Question10]
+Title=Which artist sculpted -> David in marble between 1501 and 1504?
+AnswerA=Donatello
+AnswerB=Michelangelo
+AnswerC=Bernini
+AnswerD=Ghiberti
+RightAnswer=B
+Category=Art
+
+[Question11]
+Title=Which element has the chemical symbol -> W?
+AnswerA=Tungsten
+AnswerB=Tin
+AnswerC=Silver
+AnswerD=Zinc
+RightAnswer=A
+Category=Science
+
+[Question12]
+Title=What is the second most abundant element in Earth’s crust?
+AnswerA=Silicon
+AnswerB=Aluminum
+AnswerC=Iron
+AnswerD=Calcium
+RightAnswer=A
+Category=Science
+
+[Question13]
+Title=The Peloponnesian War was fought primarily between Athens and which other city-state?
+AnswerA=Corinth
+AnswerB=Thebes
+AnswerC=Sparta
+AnswerD=Delphi
+RightAnswer=C
+Category=History
+
+[Question14]
+Title=Which African desert is the third largest in the world?
+AnswerA=Sahara
+AnswerB=Kalahari
+AnswerC=Namib
+AnswerD=Gobi
+RightAnswer=B
+Category=Geography
+
+[Question15]
+Title=What is the integral of 1/x dx?
+AnswerA=ln|x| + C
+AnswerB=x + C
+AnswerC=x^2/2 + C
+AnswerD=1/(x^2) + C
+RightAnswer=A
+Category=Math
+
+[Question16]
+Title=Which tennis player has won the most Grand Slam titles in men’s singles (as of 2025)?
+AnswerA=Rafael Nadal
+AnswerB=Roger Federer
+AnswerC=Novak Djokovic
+AnswerD=Pete Sampras
+RightAnswer=C
+Category=Sports
+
+[Question17]
+Title=Who painted -> Guernica?
+AnswerA=Joan Miró
+AnswerB=Pablo Picasso
+AnswerC=Diego Rivera
+AnswerD=Salvador Dalí
+RightAnswer=B
+Category=Art
+
+[Question18]
+Title=Which scientist proposed the three laws of planetary motion?
+AnswerA=Isaac Newton
+AnswerB=Johannes Kepler
+AnswerC=Galileo Galilei
+AnswerD=Copernicus
+RightAnswer=B
+Category=Science
+
+[Question19]
+Title=Who led the Soviet Union during World War II?
+AnswerA=Vladimir Lenin
+AnswerB=Joseph Stalin
+AnswerC=Nikita Khrushchev
+AnswerD=Leon Trotsky
+RightAnswer=B
+Category=History
+
+[Question20]
+Title=Which is the smallest country in South America by area?
+AnswerA=Suriname
+AnswerB=Guyana
+AnswerC=Uruguay
+AnswerD=Paraguay
+RightAnswer=A
+Category=Geography

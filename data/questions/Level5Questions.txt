@@ -1,0 +1,179 @@
+[Question1]
+Title=Which empire was ruled by Mansa Musa, considered one of the wealthiest rulers in history?
+AnswerA=Ghana Empire
+AnswerB=Mali Empire
+AnswerC=Songhai Empire
+AnswerD=Axum Empire
+RightAnswer=B
+Category=History
+
+[Question2]
+Title=The Peloponnesian War was fought between Athens and which other major city-state?
+AnswerA=Sparta
+AnswerB=Corinth
+AnswerC=Delphi
+AnswerD=Thebes
+RightAnswer=A
+Category=History
+
+[Question3]
+Title=Which country has the city of Timbuktu?
+AnswerA=Niger
+AnswerB=Mali
+AnswerC=Chad
+AnswerD=Sudan
+RightAnswer=B
+Category=Geography
+
+[Question4]
+Title=Which is the smallest country in South America by area?
+AnswerA=Suriname
+AnswerB=Guyana
+AnswerC=Uruguay
+AnswerD=French Guiana
+RightAnswer=A
+Category=Geography
+
+[Question5]
+Title=What is the derivative of sin(x)?
+AnswerA=cos(x)
+AnswerB=−cos(x)
+AnswerC=−sin(x)
+AnswerD=tan(x)
+RightAnswer=A
+Category=Math
+
+[Question6]
+Title=What is the integral of 1/x dx?
+AnswerA=ln|x| + C
+AnswerB=1/x + C
+AnswerC=x ln(x) + C
+AnswerD=x + C
+RightAnswer=A
+Category=Math
+
+[Question7]
+Title=Which country has won the most Rugby World Cups?
+AnswerA=England
+AnswerB=South Africa
+AnswerC=New Zealand
+AnswerD=Australia
+RightAnswer=B
+Category=Sports
+
+[Question8]
+Title=Which tennis player has the most Grand Slam singles titles (men’s)?
+AnswerA=Rafael Nadal
+AnswerB=Roger Federer
+AnswerC=Novak Djokovic
+AnswerD=Pete Sampras
+RightAnswer=C
+Category=Sports
+
+[Question9]
+Title=Who painted “Guernica”?
+AnswerA=Pablo Picasso
+AnswerB=Salvador Dalí
+AnswerC=Joan Miró
+AnswerD=Francisco Goya
+RightAnswer=A
+Category=Art
+
+[Question10]
+Title=Which artist is famous for the -> Water Lilies series?
+AnswerA=Edgar Degas
+AnswerB=Claude Monet
+AnswerC=Édouard Manet
+AnswerD=Paul Cézanne
+RightAnswer=B
+Category=Art
+
+[Question11]
+Title=What is the chemical symbol for Tungsten?
+AnswerA=Tu
+AnswerB=W
+AnswerC=Tg
+AnswerD=Ts
+RightAnswer=B
+Category=Science
+
+[Question12]
+Title=What is the powerhouse of the cell?
+AnswerA=Nucleus
+AnswerB=Ribosome
+AnswerC=Mitochondria
+AnswerD=Chloroplast
+RightAnswer=C
+Category=Science
+
+[Question13]
+Title=Which medieval document limited the power of the English king in 1215?
+AnswerA=Domesday Book
+AnswerB=Bill of Rights
+AnswerC=Magna Carta
+AnswerD=Petition of Right
+RightAnswer=C
+Category=History
+
+[Question14]
+Title=Which mountain is the tallest outside of Asia?
+AnswerA=Aconcagua
+AnswerB=Kilimanjaro
+AnswerC=Denali
+AnswerD=Elbrus
+RightAnswer=A
+Category=Geography
+
+[Question15]
+Title=What is 12! (factorial of 12)?
+AnswerA=479001600
+AnswerB=39916800
+AnswerC=6227020800
+AnswerD=3628800
+RightAnswer=A
+Category=Math
+
+[Question16]
+Title=Which country hosted the 2008 Summer Olympics?
+AnswerA=China
+AnswerB=Brazil
+AnswerC=Greece
+AnswerD=South Korea
+RightAnswer=A
+Category=Sports
+
+[Question17]
+Title=Who painted -> The Birth of Venus?
+AnswerA=Michelangelo
+AnswerB=Sandro Botticelli
+AnswerC=Titian
+AnswerD=Caravaggio
+RightAnswer=B
+Category=Art
+
+[Question18]
+Title=What is the heaviest naturally occurring element on Earth?
+AnswerA=Uranium
+AnswerB=Plutonium
+AnswerC=Thorium
+AnswerD=Lead
+RightAnswer=A
+Category=Science
+
+[Question19]
+Title=Which dynasty built most of the Great Wall of China that stands today?
+AnswerA=Han
+AnswerB=Qin
+AnswerC=Ming
+AnswerD=Tang
+RightAnswer=C
+Category=History
+
+[Question20]
+Title=Which is the saltiest body of water on Earth?
+AnswerA=Dead Sea
+AnswerB=Lake Assal
+AnswerC=Great Salt Lake
+AnswerD=Don Juan Pond
+RightAnswer=D
+Category=Geography
